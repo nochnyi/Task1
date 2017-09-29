@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Practice5 {
     public static void main(String[] args) {
 
-        System.out.println("Введите целые числа:");
+        System.out.println("Please, enter integers ");
 
         Scanner enteredNumbers = new Scanner(System.in);
         Integer n = enteredNumbers.nextInt();
